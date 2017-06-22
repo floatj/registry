@@ -11,6 +11,6 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+//ulist
+Route::get('/', 'UserController@show');
+Route::get('/userlist', 'UserController@show');
