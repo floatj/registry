@@ -9,7 +9,7 @@
     <script type="text/javascript" src="{{ asset('js/bootstrap.min.js') }}"></script>
     <!-- jQuery UI -->
     <script type="text/javascript" src="{{ asset('js/jquery-ui.min.js') }}"></script>
-    <!-- Bootstrap3 -->
+    <!-- Bootstrap -->
     <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
     <!-- jQuery UI css -->
     <link href="{{ asset('css/jquery-ui.min.css') }}" rel="stylesheet">

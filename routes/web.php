@@ -14,3 +14,6 @@
 //ulist
 Route::get('/', 'UserController@show');
 Route::get('/userlist', 'UserController@show');
+
+//register new user
+Route::get('/register', 'UserController@register');

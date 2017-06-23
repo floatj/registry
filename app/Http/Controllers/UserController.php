@@ -16,4 +16,10 @@ class UserController extends Controller
         return view('userlist');
 
     }
+
+    //register new user
+    public function register()
+    {
+        return view('register');
+    }
 }
